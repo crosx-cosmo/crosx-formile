@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789699945468,
+      "tag": "0000_add_form_offer_and_presentation_metadata",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789699981406,
+      "tag": "0001_secure_offer_logo_storage",
+      "breakpoints": true
+    }
+  ]
+}
